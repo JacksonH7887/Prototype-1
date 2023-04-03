@@ -1,5 +1,8 @@
 # Prototype-1
 
+## New to git? Download the tool...  
+https://git-scm.com  
+
 ## To download the project, clone it from command line like this:  
 git clone https://github.com/JacksonH7887/Prototype-1.git  
 
